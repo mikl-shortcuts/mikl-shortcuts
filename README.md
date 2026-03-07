@@ -2,7 +2,7 @@
 
 I am the creator of Apple Shortcuts, which are imbued with beautiful menus, functionality, convenience and made to high standards. Creator of such popular projects as [Nuvole AI](https://routinehub.co/shortcut/18431/), [Trusty Trail](https://routinehub.co/shortcut/21305/).
 
-Also, I am passionate about APIs, Telegram and Discord bots, GitHub Workflows development, having founded [MIKLIUM API](https://github.com/MIKLIUM/MIKLIUM) and created [Pollinations Models List Updates](https://github.com/mikl-shortcuts/Pollinations-Models-List-Updates).
+Also, I am passionate about APIs, Telegram and Discord bots, GitHub Workflows development, having founded [MIKLIUM API](https://github.com/MIKLIUM-Team/MIKLIUM) and created [Pollinations Models List Updates](https://github.com/mikl-shortcuts/Pollinations-Models-List-Updates).
 
 **[My Website](https://mikl-shortcuts.github.io/website/)**
 
